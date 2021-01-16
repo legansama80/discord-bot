@@ -1,1 +1,1 @@
-# discordbotmunazara
+# discord-bot
